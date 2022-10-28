@@ -19,7 +19,7 @@ const data = {
   handle: chalk.white('rmuraix'),
   //work: chalk.white('Staff Developer Advocate at Twilio'),
   //twitter: chalk.gray('https://twitter.com/') + chalk.cyan('bitandbang'),
-  npm: chalk.gray('https://npmjs.com/') + chalk.red('~rmuraix'),
+  npm: chalk.gray('https://npmjs.com/') + chalk.red('~rmu'),
   github: chalk.gray('https://github.com/') + chalk.green('rmuraix'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('rmurai'),
   web: chalk.cyan('https://rmurai.com/'),

@@ -1,6 +1,6 @@
 {
-  "name": "rmuraix",
-  "version": "1.0.0",
+  "name": "@rmu/card",
+  "version": "1.0.1",
   "description": "A personal card for Ryota Murai (@rmuraix)",
   "main": "/bin/card.js",
   "bin": {
